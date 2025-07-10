@@ -26,15 +26,16 @@ FPS = 1
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--local_dir", default="~/data/robovqa")
+    parser.add_argument("--local_dir", default="data/robovqa")
     parser.add_argument("--hdfs_dir", default=None)
 
     args = parser.parse_args()
 
     data_source = "Cosmos-Reason1-RL-Dataset/robovqa"
-
-    train_dataset = datasets.load_dataset('/root/data/Cosmos-Reason1-RL-Dataset/robovqa', data_files='/root/data/Cosmos-Reason1-RL-Dataset/robovqa/robovqa_rl_qa_pairs.json')['train']
-    test_dataset = datasets.load_dataset('/root/data/Cosmos-Reason1-Benchmark/robovqa', data_files='/root/data/Cosmos-Reason1-Benchmark/robovqa/robovqa_benchmark_qa_pairs.json')['train']
+    train_dataset = datasets.load_dataset('data/Cosmos-Reason1-RL-Dataset/robovqa', data_files='data/Cosmos-Reason1-RL-Dataset/robovqa/robovqa_rl_qa_pairs.json')['train']
+    test_dataset = datasets.load_dataset('data/Cosmos-Reason1-Benchmark/robovqa', data_files='data/Cosmos-Reason1-Benchmark/robovqa/robovqa_benchmark_qa_pairs.json')['train']
+    # train_dataset = datasets.load_dataset('nvidia/Cosmos-Reason1-RL-Dataset', 'robovqa')['rl']
+    # test_dataset = datasets.load_dataset('nvidia/Cosmos-Reason1-Benchmark', 'robovqa')['benchmark']
 
 
     user_prompt = "\nAnswer with the option's letter from the given choices directly."
@@ -45,9 +46,9 @@ if __name__ == "__main__":
         def process_fn(example, idx):
             # video = example.pop('video').split("/")[-1] # 使用pop移除原始字段
             if split == "train":
-                video = os.path.join('data/Cosmos-Reason1-RL-Dataset/robovqa', example.pop('video'))
+                video = os.path.join('/data/processed/data/Cosmos-Reason1-RL-Dataset/robovqa', example.pop('video'))
             else:
-                video = os.path.join('data/Cosmos-Reason1-Benchmark/robovqa', example.pop('video'))
+                video = os.path.join('/data/processed/data/Cosmos-Reason1-Benchmark/robovqa', example.pop('video'))
             qa_pairs = example.pop('qa_pairs')  # 使用pop移除原始字段
             answer = qa_pairs['answer']
 
