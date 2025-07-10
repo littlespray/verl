@@ -196,6 +196,7 @@ class RLHFDataset(Dataset):
                 content_list = []
                 segments = re.split("(<image>|<video>)", content)
                 segments = [item for item in segments if item != ""]
+
                 for segment in segments:
                     if segment == "<image>":
                         content_list.append({"type": "image"})
@@ -203,9 +204,7 @@ class RLHFDataset(Dataset):
                         content_list.append({"type": "video"})
                     else:
                         content_list.append({"type": "text", "text": segment})
-
                 message["content"] = content_list
-
         return messages
 
     def __getitem__(self, item):

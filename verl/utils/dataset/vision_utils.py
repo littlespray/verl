@@ -70,7 +70,6 @@ def process_video(
 
     Add video sample FPS in a future MR
     """
-
     if not isinstance(video, dict) or "video" not in video:
         raise NotImplementedError(VIDEO_FORMAT_HELP)
     assert nframes is None or fps is None, "Can't use both `nframes` or `fps`"
