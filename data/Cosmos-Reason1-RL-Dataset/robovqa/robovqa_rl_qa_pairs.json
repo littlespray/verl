@@ -1,0 +1,2774 @@
+[
+    {
+        "video": "clips/6349997032405736017.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - open the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/4388906039617099959.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the apple in the tray from the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12050217745859020930.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put apple in a bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6262645198769070873.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the right potted plant. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15472520879665459335.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the glasses. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16528498697316844998.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up bag. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10865586552066008374.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange pen in a pen stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5952288829357847847.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - leave the room. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/16637459719640763712.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put green candy in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8028131771118394443.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the plates. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2453677885242001448.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - push the trolley to the wall. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3888876727771068586.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move towards the cap. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14466463273577754142.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the packet. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1406878169832949648.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the brown paper cup on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15570394858182802846.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move arm backward. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3187720807152091050.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - empty the drawer on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3582330873663309539.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - keep the brown packets in the stand. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15012008279858506930.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the green bag. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6448898193527769572.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put a pistachio in the cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/4000971529174245726.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - arrange candies in the jar. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7700981426718458699.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the sticker glass near the edge of the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/13527097203383318363.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the white sugar packet in the container. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/107111128217349842.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the apple inside the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/3869088517616131531.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the scoop in the holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9877032036623114526.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the tray on the drawer. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10638135316540901284.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8851725989789353176.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the yellow candy into the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15989326570159403562.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put apple in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7388693340915997218.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange peel in plastic cup. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3848767945375903653.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop almond into cup. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2967551033063946002.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - grasp the orange snack bag. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14324047314775593758.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put  last 2 packets in the stand. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9785010101417924213.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the green packet into the basket. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10263625957429550224.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the brown packet on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7571849812737016028.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the apple into the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12971686671762874067.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the red marker. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1792533878796261580.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - push the chair. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1337770363747781446.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the blue wire into the cardboard box. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/514053261178714704.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put a green packet inside the rack basket. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1173244175263684373.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the candy in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/18018424800070691457.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the black marker. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2767123919511157359.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the tong in the holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6368807314080899862.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the mini steel glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6788721445239724168.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the green marker from the marker holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14359227377029722087.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the green packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/580221841340541031.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place yellow candy into the jar. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17989177004305198126.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move close to the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9029872980515866991.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the paper cup. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6355713244981250842.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the brown packet in basket. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/17426207072935583429.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - arrange the candy. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7964063377969748353.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place pen on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1640564561646893543.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the brown paper cup in front of the coffee dispenser. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5974260338138005689.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place yellow  candy on the table from the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13511162049972287500.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the glass on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8197584166919828849.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the black packet in squarish white bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7897806931963501009.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the sugar packet into the organizer. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15210222375474155947.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the dropped popcorn in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15907151233293832227.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - through the disposal glass in the dustbin. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16688578088084068398.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put yellow popcorn packet on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12592563894371357555.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange in the white bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/47552642286810645.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the glass in the cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/633909073461682998.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - close tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15945815353896396699.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the can in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5724068667776332095.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put apple in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5796892155589300866.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange in white bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9554129289414029230.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the paper bowl right. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/434775411974855910.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put brown packet in the paper  bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2991389236045289807.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the spoon in the holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10409745497820262002.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the  packets into the organizer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9990576183535182196.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put banana in the small bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6004385561250072492.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the packet on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/14098807593506263963.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put redbull can on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8413627619800071079.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the tissue. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9250202242852844567.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the orange cable on the cardboard box. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10290950267136349774.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put a pen in the pen stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7497939171693343496.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the sticky notes in the trolley. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/11309175060106748512.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place an orange inside the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/11634970178804446248.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - grasp the green glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15153154635070409433.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the battery on table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1287678525980805908.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the bowl on the counter. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/11002986783785622790.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the tissue on the banana. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1217369035861447731.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - open the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6451825589414588696.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the orange in bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16074199750021810077.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange packet in the basket. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/13288460430339933946.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put black pen in holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8397196511259715179.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the green marker. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9004769658234759642.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - unstack the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14237692987430413995.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the black marker in  pen stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/16444304429896640844.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put pistachio in right cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6995913200596227455.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the packet in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12127378969694672696.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the plastic glass from the plastic basket. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/17891704189078782899.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the yellow marker in the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/18145304461597713586.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the pen holder on table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5449411762949671225.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the black packet in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1725542104360843722.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put oreos in a bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15490401433218861643.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pen in the left holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16372730792249175142.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place a cup in a drawer. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2417076050313584046.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/14497753318086067774.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the smart 50 packet in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/821440971575305252.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put blue can on table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/17411944641843350501.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the book in trolley stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8504821051407206669.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the candy in the brown bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1585162715027553977.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pistachio in the cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8867139255103556014.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the apple in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10278340446422916350.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the chips packet in the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5963263224325272565.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the black box. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/17434434694841450569.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the right potted plant. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12597806097885269147.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the organizer tray on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7814275743701674514.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put plastic fork in the holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13219333645762040579.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the packet on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8612974209954549347.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move forward. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15828411043131709058.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put black packet in the tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17074401836255245035.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put a plastic spoon in the glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17128892326166868696.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12741246367935775703.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move forward. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13278975781954567271.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - push the holder backwards on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/8769076644532999411.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the boat toy on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/13992309251937601832.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the coffee cup. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7508696985239522777.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place spoons in the black cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/4078808771920240022.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange packet in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13516978457012106765.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop apple into bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1995620718788425122.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6285011649172516809.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put pink sugar packet in the organiser. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1061346143407004279.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the white packet on the organiser. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15773748293751042461.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the tea box in the holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12468069274441686995.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the yellow marker into the pen case. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13006330028402368843.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - open the lid. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6887483324395774589.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the banana from the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1273823132511353308.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the fork spoons on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12987747849185353125.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put yellow marker in the pen holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/4317742926642943329.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the paper cup on the top of existing stack. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1128305328534998400.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place candy on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/4245015583345488610.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the glass from the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10580509480159430563.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place black pen in the pen stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/16082185835002526781.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the left side black file from the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/4184095714634901674.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop yellow packet in the tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/18158797605846253441.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put pen in pen holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12906337298466389001.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - close the file. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/15330833575421560486.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move towards the right chair. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6095733884022979088.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the white box into the first aid box. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15106115007940291889.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pen in the pen holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2969865356380858072.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pen in the holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9630595825834198201.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick knife from the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1108404037442220522.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the notepad on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2329644805955343528.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move the left indoor plant to the right. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/3091688124047522070.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put orange candy in the cup. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12728426564824848928.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the sugar packet in the glass tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/8483208962870038020.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the toy red chilli in the tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6791337448640009325.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the apple in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5510675983028376892.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put purple marker in the stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17473490913547032460.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - arrange packets in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2492410732160793900.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put apple in tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16368527953194494272.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the knife into the holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/96110650514344497.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the orange in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17608122706643270455.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the banana peel from the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10568851939737575802.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pull the bag off the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/303232930524831120.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the pen on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5439387943335850014.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the candy in a glass jar. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/4234334461341091243.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the pen into cart. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/12045077196668101284.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - upright the plastic glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/17453451226754926239.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the black packet in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8174182833747403883.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - wash cup. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2106504231034468024.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the tong on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6112041300565045454.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack plate on top of existing stack. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10777540075430455565.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pistachio in the paper glass. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3785837690791246087.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the orange on table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10788091569855464296.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - lift the blue marker. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7870899951443367351.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - go closer to the left indoor plant. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/3734377023203014500.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put packet in tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9289471741940239029.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - erase the content written on the board. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/11974177575604572491.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - slightly move your arm down. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17133284132296477731.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - push the top plant to the right. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15145208656006068737.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the paper cup in the garbage bin. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1811810921529736284.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the sticky note in the trolley rack. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10150859651142078091.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the pot in the green container. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10059826828242310885.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the marker into the pen stand. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1976178082620408063.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the red marker on the rack. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2727132535791547.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the candy in the  bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9755549361798940790.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the yellow cup on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/14542992160589199748.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the red marker in the red marker box. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8244282002801964928.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the popcorn in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5139553518979048294.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the cap on glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5125961945275005943.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place both the pens into the pen case. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14585335397379630852.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pen in the pen stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/11723303522030585115.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put sticky notes in the organiser. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12964577194967916559.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the clip in the desk holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12296489488704071366.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the book on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10813908660745567294.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the glass. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/389095736422581692.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the chocolate on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/764173674547094315.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the stapler in the drawer. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/16086918794615152202.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the yellow packet in the basket. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5598199864261129937.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put a pen in the pen stand. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17829774109414188560.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the hand sanitizer bottle on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/11884748306766197066.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put pens in the holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/15504723463609235307.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put cookie on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1972969314889664177.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - enter the room. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5034550447948603034.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put blue packet in stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/11047622542592780058.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move the leftmost plant downwards. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7808074833686984630.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the marker into the box. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16158313879376373777.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the chocolate put in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3099823885368784385.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - keep packet from tray onto table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7979994041759175578.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place cold brew can in the tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14226554309998324022.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the plastic glass. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/18270451130029443000.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place a can in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13501097194599576722.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the black pen on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/456622895492532453.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - open the door. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13756896873278065676.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the can on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12414745051787669822.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put orange in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/965394113054432070.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pista into the glass jar. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12100062929795706075.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick out a water bottle from the fridge. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10117717390014612887.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the milk carton on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/7031329156232288124.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the popcorn packet from the cupboard. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/911901262480617201.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the pen on the pens. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/911901262480617201.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the pen on the pens. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/8933162145911869437.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the sugar packet in the stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5946245987790861135.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put green packets in the organiser. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/4011585079665970537.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - hang the cap in the stand. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5079956173178519713.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the paper glass into the dustbin. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/11357494857169790460.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pretzel chip bag in the small basket. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/505200334674871897.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the packets on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1837082208648133792.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the red candy in the left side tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9450729133050015821.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the cup in the drawer. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/16757224667719800447.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - grab the tray. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14375802776244166577.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drive forward. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/2106218454651342395.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick the orange chip packet. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/3375360721772847083.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the green candy into the organizer. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/11654654140053816607.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the strainer in the box. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/9985322576809247378.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the green marker in the pen holder. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/7255771370340031917.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put box in stand. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/10713823874355217697.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the pepsi can in the fridge. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/10364756125933105146.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the bottle on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/578434813975442736.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the blue object. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/13118343030283267829.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the blue packet on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/1162964328384081645.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - drop the pen into the pen holder. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/9760928629236697424.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - stack the glass on the existing glass. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/11234399928745367065.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the tin on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/197674662651845988.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the tea pouch on the tissue. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/6251425059108951935.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - move away from the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/1405595419385342092.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put cherries on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/78083392755472341.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place cold brew can on the table. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/18430592484236902509.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put candy in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/17981254730538181780.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pull the paper on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/8737165001904813096.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put packet in the tray. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/6891423895103306001.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - arrange the packet. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/14737098035636390005.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the  hint water bottle on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/14737098035636390005.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the  hint water bottle on the table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/412538175398019225.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put apple in the bowl. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/2782247888066060159.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - pick up the green packet. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/5733975118425617204.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the chocolate in the jar. Is it possible for the agent to execute the task specified in the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "A"
+        }
+    },
+    {
+        "video": "clips/12345653476949823023.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - place the box on the upper shelf. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/8128244649777902126.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put the orange in the bowl. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "no",
+                "B": "yes"
+            },
+            "answer": "B"
+        }
+    },
+    {
+        "video": "clips/5197945586719002317.mp4",
+        "qa_pairs": {
+            "question": "The agent in the video was given the instruction - put redbull can on table. Was the agent successful in completing the task specified by the instruction?",
+            "index2ans": {
+                "A": "yes",
+                "B": "no"
+            },
+            "answer": "A"
+        }
+    }
+]
