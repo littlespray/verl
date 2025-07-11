@@ -184,7 +184,7 @@ class TaskRunner:
         train_dataset = create_rl_dataset(config.data.train_files, config.data, tokenizer, processor)
         val_dataset = create_rl_dataset(config.data.val_files, config.data, tokenizer, processor)
         train_sampler = create_rl_sampler(config.data, train_dataset)
-
+        print(train_dataset[0])
         # Initialize the PPO trainer.
         trainer = RayPPOTrainer(
             config=config,
