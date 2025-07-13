@@ -541,8 +541,6 @@ class RayPPOTrainer:
         """
         # TODO: we have to make sure the batch size is divisible by the dp size
         from verl.trainer.main_ppo import create_rl_dataset, create_rl_sampler
-        print('sskssk processor', self.processor)
-        assert 1 == 2
         if train_dataset is None:
             train_dataset = create_rl_dataset(
                 self.config.data.train_files, self.config.data, self.tokenizer, self.processor
