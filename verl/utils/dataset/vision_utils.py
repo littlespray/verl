@@ -87,7 +87,7 @@ def process_video(
                 video["min_frames"] = fps_min_frames
             if fps_max_frames is not None:
                 video["max_frames"] = fps_max_frames
-    print(video, '*'*100)
+
     return fetch_video(video)
 
 
