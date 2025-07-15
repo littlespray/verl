@@ -74,12 +74,14 @@ class RLHFDataset(Dataset):
     - Optionally handles images/videos via a ProcessorMixin.
     - Filters prompts over a max length.
     - Supports resuming from checkpoints.
+    - Optionally expands dataset by duplicating data.
 
     Args:
         data_files (str or list): Path(s) to Parquet file(s).
         tokenizer (PreTrainedTokenizer): For the tokenization of text to token IDs.
         config (DictConfig): Options like cache_dir, prompt_key, max_prompt_length, truncation, etc.
         processor (ProcessorMixin, optional): Multimodal preprocessor for images/videos.
+        expand_factor (int, optional): If specified and > 1, duplicates the dataset this many times.
     """
 
     def __init__(
@@ -97,6 +99,12 @@ class RLHFDataset(Dataset):
         self.tokenizer = tokenizer
         self.processor = processor
         self.config = config
+
+        # expand dataset
+        if 'train.parquet' in self.data_files[0]:
+            self.expand_factor = 4
+        else:
+            self.expand_factor = None
 
         self.cache_dir = os.path.expanduser(config.get("cache_dir", "~/.cache/verl/rlhf"))
         self.prompt_key = config.get("prompt_key", "prompt")
@@ -174,6 +182,18 @@ class RLHFDataset(Dataset):
             )
 
             print(f"filter dataset len: {len(self.dataframe)}")
+
+        # Expand dataset if expand_factor is specified
+        if self.expand_factor is not None and self.expand_factor > 1:
+            print(f"Expanding dataset by factor of {self.expand_factor}...")
+            original_len = len(self.dataframe)
+            
+            # Create multiple copies of the dataset and concatenate them
+            expanded_datasets = [self.dataframe] * self.expand_factor
+            self.dataframe = datasets.concatenate_datasets(expanded_datasets)
+            
+            new_len = len(self.dataframe)
+            print(f"Dataset expanded from {original_len} to {new_len} samples")
 
     def resume_dataset_state(self):
         self.serialize_dataset = not hasattr(self, "original_data_files")
