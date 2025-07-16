@@ -102,7 +102,7 @@ class RLHFDataset(Dataset):
 
         # expand dataset
         if 'train.parquet' in self.data_files[0]:
-            self.expand_factor = 4
+            self.expand_factor = 2
         else:
             self.expand_factor = None
 
