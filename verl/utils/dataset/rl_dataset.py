@@ -79,9 +79,9 @@ class RLHFDataset(Dataset):
     Args:
         data_files (str or list): Path(s) to Parquet file(s).
         tokenizer (PreTrainedTokenizer): For the tokenization of text to token IDs.
-        config (DictConfig): Options like cache_dir, prompt_key, max_prompt_length, truncation, etc.
+        config (DictConfig): Options like cache_dir, prompt_key, max_prompt_length, truncation, 
+            expand_factor, etc.
         processor (ProcessorMixin, optional): Multimodal preprocessor for images/videos.
-        expand_factor (int, optional): If specified and > 1, duplicates the dataset this many times.
     """
 
     def __init__(
@@ -100,9 +100,8 @@ class RLHFDataset(Dataset):
         self.processor = processor
         self.config = config
 
-        # expand dataset
         if 'train.parquet' in self.data_files[0]:
-            self.expand_factor = 2
+            self.expand_factor = config.get("expand_factor", None)
         else:
             self.expand_factor = None
 

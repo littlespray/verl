@@ -50,6 +50,8 @@ Data
   algorithms (e.g. PPO) generates up to this length
 - ``data.train_batch_size``: Batch size sampled for one training
   iteration of different RL algorithms.
+- ``data.expand_factor``: Dataset expansion factor. If specified and > 1, 
+  duplicates the dataset this many times to artificially increase dataset size.
 - ``data.return_raw_input_ids``: Whether to return the original
   input_ids without adding chat template. This is mainly used to
   accommodate situations where the reward model's chat template differs

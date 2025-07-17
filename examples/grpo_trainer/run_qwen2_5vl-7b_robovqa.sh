@@ -14,6 +14,7 @@ python3 -m verl.trainer.main_ppo \
     data.max_response_length=6144 \
     data.filter_overlong_prompts=True \
     data.truncation='error' \
+    data.expand_factor=2 \
     actor_rollout_ref.model.path=Qwen/Qwen2.5-VL-7B-Instruct \
     actor_rollout_ref.actor.optim.lr=2e-6 \
     actor_rollout_ref.actor.optim.lr_warmup_steps=20 \

@@ -117,7 +117,7 @@ ENV/
 
 # data
 # *.parquet
-
+data/Cosmos*
 
 # local logs
 logs

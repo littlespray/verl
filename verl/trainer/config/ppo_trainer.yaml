@@ -50,6 +50,10 @@ data:
   # Batch size used during validation. Can be null.
   val_batch_size: null
 
+  # Dataset expansion factor. If specified and > 1, duplicates the dataset this many times.
+  # Used to artificially increase dataset size by repeating the same data.
+  expand_factor: null
+
   # Whether to return the original input_ids without adding chat template.
   # This is used when the reward model's chat template differs from the policy.
   # If using a model-based RM with different templates, this should be True.
